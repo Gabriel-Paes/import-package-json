@@ -12,9 +12,7 @@ Então vamos ao que importa:
 Adicione a propriedade `type`.
 
 ```json
-{
-  "type": "module"
-}
+"type": "module",
 ```
 
 ### index.html
